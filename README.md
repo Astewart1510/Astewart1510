@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astewart1510
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all things Blockchain and Enclaves in Rust. 
 - 📫 How to reach me on my email : astewart1510@gmail.com
 
 <!---
